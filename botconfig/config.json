@@ -1,5 +1,5 @@
 {
-  "token": "ODkwMDc0NDQzODMxOTkyMzgx.YUqgbA.6ijMM6qNj_xsKXKFslliuYUuA-Q",
+  "token": "ODkwMDc0NDQzODMxOTkyMzgx.YUqgbA.IFJQb7E01BfTx_VWx80SPfkt5ss",
   "prefix": "!",
   "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
   "slashCommandsDirs": [
